@@ -1,9 +1,18 @@
 /******************************************************************************
+o/p:
+Enter number of nodes: 4
 
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
+Enter data:4 5 6 7
+Enter data :5
+Enter data :6
+Enter data :7
+
+Linked list is:
+4
+5
+6
+7
+
 
 *******************************************************************************/
 #include <stdio.h>
